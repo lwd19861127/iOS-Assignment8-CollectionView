@@ -1,0 +1,20 @@
+[
+    { "name": "Sake", "category": "Mexican", "image": "California Roll" },
+  { "name": "Unagi", "category": "Asian", "image": "Akagai" },
+  { "name": "Hamachi", "category": "American", "image": "Buri" },
+  { "name": "Hotate", "category": "Breakfast", "image": "Chutoro" },
+  { "name": "Uni", "category": "lunch", "image": "Hamachi" },
+  { "name": "California Roll", "category": "Mexican", "image": "Hamaguri" },
+  { "name": "Rainbow Roll", "category": "Mexican", "image": "Hotate" },
+  { "name": "Otoro", "category": "Mexican", "image": "Katsuo" },
+  { "name": "Chutoro", "category": "Mexican", "image": "Kohada" },
+  { "name": "Buri", "category": "Mexican", "image": "Kuruma Ebi" },
+  { "name": "Mushi Awabi", "category": "Mexican", "image": "Mushi Awabi" },
+  { "name": "Kuruma Ebi", "category": "Mexican", "image": "Otoro" },
+  { "name": "Sayori", "category": "Mexican", "image": "Rainbow Roll" },
+  { "name": "Hamaguri", "category": "Mexican", "image": "Sake" },
+  { "name": "Katsuo", "category": "Mexican", "image": "Sayori" },
+  { "name": "Kohada", "category": "Mexican", "image": "Unagi" },
+  { "name": "Akagai", "category": "Mexican", "image": "Uni" },
+]
+
